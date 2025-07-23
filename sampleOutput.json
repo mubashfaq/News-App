@@ -1,0 +1,227 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jesse Pound",
+      "title": "Dow futures drop over 250 points after Trump slaps 30% tariff on Mexico and the EU: Live updates - CNBC",
+      "description": "The stock market is coming off a losing week, though the major averages are still near record highs.",
+      "url": "https://www.cnbc.com/2025/07/13/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108171085-1752265944758-gettyimages-2224686197-anotherday80677825_rh0ifp7q.jpeg?v=1752265996&w=1920&h=1080",
+      "publishedAt": "2025-07-14T06:13:00Z",
+      "content": "U.S. equity futures slid early Monday as Wall Street contends with continued tariff risks and second-quarter earnings on deck.\r\nBoth the S&amp;P 500 futures and Nasdaq 100 futures dropped 0.58% each.… [+1948 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Anand Krishnamoorthy",
+      "title": "US Futures Drop as Trump Steps Up Tariff Threats: Markets Wrap - Bloomberg.com",
+      "description": "Equity-index futures for the US and Europe retreated in a cautious start to the week after President Donald Trump dialed up trade tensions by announcing a 30% tariff on goods from the European Union and Mexico.",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-13/us-futures-drop-as-trump-steps-up-tariff-threats-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik_oKkFx4Wys/v0/1200x675.png",
+      "publishedAt": "2025-07-14T05:54:00Z",
+      "content": "Equity-index futures for the US and Europe retreated in a cautious start to the week after President Donald Trump dialed up trade tensions by announcing a 30% tariff on goods from the European Union … [+372 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Miriam Berger, Sammy Westfall, Heba Farouk Mahfouz, Alon Rom",
+      "title": "IDF blames ‘error’ for Gaza strike that killed children collecting water - The Washington Post",
+      "description": "Ten people, including children, were killed in a strike at a water collection point in central Gaza, according to health officials. Israel is investigating the incident.",
+      "url": "https://www.washingtonpost.com/world/2025/07/13/israel-gaza-idf-children-killed/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJ24SWCO2QT5MK66H2JMHEP33I_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-07-14T04:16:47Z",
+      "content": "Ten people, many of them children, were killed in a strike at a water distribution site in central Gaza on Sunday, local health officials said, in a deadly incident the Israeli military said was the … [+3326 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "Nicotine pouch poisonings soar in babies and toddlers - NBC News",
+      "description": "The number of young children sickened after getting their little hands on nicotine products like pouches and vape e-liquids has skyrocketed in recent years",
+      "url": "https://www.nbcnews.com/health/health-news/nicotine-patch-poisonings-children-vape-liquid-warning-rcna218262",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250711-nicotine-pouches-aa-1132-0326eb.jpg",
+      "publishedAt": "2025-07-14T04:01:00Z",
+      "content": "The number of young children sickened after getting their little hands on nicotine products like pouches and vape e-liquids has skyrocketed in recent years.\r\nFrom 2010 through 2023, U.S. poison cente… [+4099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cageside Seats"
+      },
+      "author": "Geno Mrosko",
+      "title": "Naomi cashes in Money in the Bank contract to win women’s world title at Evolution 2 - Cageside Seats",
+      "description": "Rhea Ripley still hasn’t beaten Iyo Sky but it’s Naomi who left with the title.",
+      "url": "https://www.cagesideseats.com/wwe/2025/7/13/24467177/naomi-cashes-in-money-in-the-bank-contract-win-womens-world-title-evolution-2-iyo-sky-rhea-ripley",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gHTGvcfGy_VZas9tiZMXoMacORU=/0x51:2451x1334/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26056018/Naomi.png",
+      "publishedAt": "2025-07-14T02:23:52Z",
+      "content": "Any time Rhea Ripley has been involved in a match that also included Iyo Sky, WWE pushed the story that she has never defeated her. At tonights (Sun., July 13, 2025) Evolution 2 premium live event at… [+1339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Bank of England prepared to cut rates if job market slows, says governor - BBC",
+      "description": "Andrew Bailey tells the Times \"I really do believe the path is downward\" on interest rates.",
+      "url": "https://www.bbc.com/news/articles/cqx2pj42395o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73dc/live/fc314c90-6043-11f0-a40e-a1af2950b220.jpg",
+      "publishedAt": "2025-07-14T02:16:14Z",
+      "content": "The Bank of England is prepared to make larger interest rate cuts if the job market shows signs of slowing down, its governor has said.\r\nIn an interview with the Times, Andrew Bailey said \"I really d… [+1606 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Alex Thompson",
+      "title": "Biden defends frequent autopen use at end of term amid Republican investigations - Axios",
+      "description": "Biden used an autopen to sign many pardons at the end of his presidency.",
+      "url": "https://www.axios.com/2025/07/14/biden-defends-autopen-use-white-house",
+      "urlToImage": "https://images.axios.com/k_xdVHF8uv108IL0BddKQTI3UD4=/0x0:4000x2250/1366x768/2025/07/14/1752457642305.jpg",
+      "publishedAt": "2025-07-14T02:11:58Z",
+      "content": "\u003Cul\u003E\u003Cli\u003ESome, particularly House Oversight Chairman James Comer, have been probing whether White House officials abused Biden's use of the autopen, which does not require the president's physical sig… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Israeli researchers discover world's first mRNA-based vaccine against bacterium - The Jerusalem Post",
+      "description": "The team from Tel Aviv University developed a vaccine to combat the bacterium that causes the black plague, using the same system as with the COVID-19 vaccines.",
+      "url": "https://www.jpost.com/health-and-wellness/article-860942",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/672499",
+      "publishedAt": "2025-07-14T02:10:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Mitchell McCluskey, Stephanie Busari",
+      "title": "Former Nigerian president Muhammadu Buhari dies at age 82 - CNN",
+      "description": "Buhari, a former military general who campaigned on rooting out government corruption, has died at age 82, the presidential press office said in a statement on Sunday.",
+      "url": "https://www.cnn.com/2025/07/13/africa/muhammadu-buhari-dies-at-age-82",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1405993594.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-07-14T01:10:00Z",
+      "content": "Former Nigerian President Muhammadu Buhari, a former military general who campaigned on rooting out government corruption, has died at age 82, the presidential press office said in a statement on Sun… [+4500 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Neil Irwin, Courtenay Brown",
+      "title": "Fed explains its mega-renovation project as Trump pressures Powell - Axios",
+      "description": "The White House appears to be using cost overruns in the Fed's $2.5 billion project to build a case for dismissing Powell.",
+      "url": "https://www.axios.com/2025/07/14/trump-powell-federal-reserve-renovations",
+      "urlToImage": "https://images.axios.com/BepvG3vytoFeMQ8Ohbz4buTKkDc=/0x235:5954x3584/1366x768/2025/07/14/1752451867256.jpg",
+      "publishedAt": "2025-07-14T00:55:16Z",
+      "content": "Zoom out: The Fed asserts, in a new posting on its website Sunday evening, that many of the costs of the project are necessary to bring two nearly century-old buildings up to modern standards, and do… [+3293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "R.J. Anderson",
+      "title": "2025 MLB Draft grades: Nationals get 'A' for Eli Willits shocker at No. 1, analysis for every first-round pick - CBS Sports",
+      "description": "We graded every first-round pick live as they happened Sunday night in the 2025 MLB Draft",
+      "url": "https://www.cbssports.com/mlb/news/2025-mlb-draft-grades-nationals-get-a-for-eli-willits-shocker-at-no-1-analysis-for-every-first-round-pick/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/14/01ce91cb-cf57-4232-ab4f-927b82cf6cb2/thumbnail/1200x675/b515a91cf8667bd70de0e91dcec6a8d3/eli-getty.png",
+      "publishedAt": "2025-07-14T00:32:00Z",
+      "content": "Major League Baseball's 2025 Draft has arrived. The 20-round draft process is underway, and the first round wrapped Sunday night as the Atlanta Braves host All-Star Game festivities this year. The Wa… [+2463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Armando Tinoco",
+      "title": "Peacock Sets ‘Love Island USA’ Season 7 Reunion Premiere Date; Andy Cohen & Ariana Madix To Host - Deadline",
+      "description": "A hot new bombshell enters the Love Island USA villa as Andy Cohen has been tapped to host the Season 7 reunion alongside Ariana Madix.",
+      "url": "http://deadline.com/2025/07/love-island-usa-season-7-reunion-andy-cohen-ariana-madix-peacock-1236456238/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/andy-cohen-ariana-madix-love-island-season-7-reunion.jpg?w=1024",
+      "publishedAt": "2025-07-14T00:30:00Z",
+      "content": "A hot new bombshell enters the Love Island USA villa as Andy Cohen has been tapped to host the Season 7 reunion alongside Ariana Madix.\r\nThe Watch What Happens Live host will join the Vanderpump Rule… [+2661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dark Horizons"
+      },
+      "author": "Garth Franklin",
+      "title": "2025 Top 10 Streaming Titles (So Far) Revealed - Dark Horizons",
+      "description": "Bloomberg has published a list of the most-watched original streaming series in the first half of 2025, going by Nielsen data, with Netflix unsurprisingly taking the most slots of any streamer. With Netflix releasing the second season of its South Korean dram…",
+      "url": "https://www.darkhorizons.com/2025-top-10-streaming-titles-revealed/",
+      "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2025/07/2025-top-10-streaming-titles-revealed.jpg",
+      "publishedAt": "2025-07-14T00:21:19Z",
+      "content": "Bloomberg has published a list of the most-watched original streaming series in the first half of 2025, going by Nielsen data, with Netflix unsurprisingly taking the most slots of any streamer.\r\nWith… [+1852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Dustin Long",
+      "title": "What drivers said after Sonoma NASCAR Cup race won by Shane van Gisbergen - NBC Sports",
+      "description": "Here is what drivers said after Sunday's Cup race in Northern California.",
+      "url": "https://www.nbcsports.com/nascar/news/what-drivers-said-after-sonoma-nascar-cup-race-won-by-shane-van-gisbergen",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/e367cfb/2147483647/strip/true/crop/3979x2238+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F83%2F8c3e75b94cf0864590a3421abe63%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2224351028",
+      "publishedAt": "2025-07-14T00:13:28Z",
+      "content": "Here is what drivers had to say after Sundays Cup race at Sonoma Raceway:\r\nShane van Gisbergen Winner: This is amazing. This is why we go racing. I had a great time. Its awesome to have Red Bull on t… [+5905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Annabelle Dickson",
+      "title": "Donald Trump’s UK state visit set for September — when MPs are away - politico.eu",
+      "description": "The British parliament — home to plenty of Trump critics — will be in recess during the U.S. president’s big trip.",
+      "url": "https://www.politico.eu/article/donald-trump-uk-state-visit-september/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/13/13187512-scaled.jpg",
+      "publishedAt": "2025-07-14T00:01:00Z",
+      "content": "The high-profile visit coincides with a U.K. parliamentary recess potentially helping sidestep a diplomatic row. Britain's MPs, who have mixed views of Trump, will be out of Westminster, with some tr… [+1154 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Matthew Cappucci, Scott Dance",
+      "title": "Search efforts paused as more flooding rains hit Central Texas - The Washington Post",
+      "description": "The Kerr County sheriff paused search efforts Sunday because of more flooding from heavy rain in Central Texas. Oklahoma, Arkansas and New Mexico were also under flood watches.",
+      "url": "https://www.washingtonpost.com/weather/2025/07/13/flooding-rain-central-texas-plains-forecast/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IONIL5VMOYJYUEX6H4TLL4LOG4.jpg&w=1440",
+      "publishedAt": "2025-07-13T23:55:53Z",
+      "content": "Another bout of heavy rain hit Central Texas overnight, driving significant flooding into Sunday morning that prompted authorities to suspend search efforts for victims of deadly July 4 flooding acro… [+4921 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Kelly Kasulis Cho, Vivian Ho, Maegan Vazquez",
+      "title": "Senate report details failures ahead of Trump assassination attempt - The Washington Post",
+      "description": "The document outlines what the committee chairman regarded as scant disciplinary action after the shortcomings at the Pennsylvania rally last year.",
+      "url": "https://www.washingtonpost.com/politics/2025/07/13/trump-assassination-attempt-senate-investigation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35MHB2DD26UNOXASFGC3YLDMWA.JPG&w=1440",
+      "publishedAt": "2025-07-13T23:42:01Z",
+      "content": "The Secret Service failed to prevent the assassination attempt against Donald Trump last year at his Pennsylvania campaign rally, according to a Senate committee report, which accuses the agency of a… [+8662 chars]"
+    }
+  ]
+}
