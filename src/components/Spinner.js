@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
-import loading from './loader.gif';
+import './Spinner.css';
 export default class Spinner extends Component {
   render() {
     return (
-      <div className="text-center">
-        <img src={loading} alt="" />
+
+      <div className="loader-wrapper">
+
+        <div className="loader"></div>
       </div>
     );
   }
